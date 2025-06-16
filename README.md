@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website
 
 A modern, responsive portfolio website built with React, Vite, and Tailwind CSS.
@@ -72,3 +73,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# RYN
+Senior Front End Developer | Assignment Test | Creatiwise
+>>>>>>> 9414ca7a2c400d1fe239e6ee68f52d9d75766474
